@@ -2,7 +2,7 @@ package com.tonghannteng.turo.data
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-
+2ROaa2Rh9qu3WVTCms8FoVE4mSfHQHC7QJua95-kKT-PqzIlLSrs4tmHVdtdFw_66-JNfRiJmbCByHTvFNy5dQq-tpfS4FrPpupIzKlgELR3br-r5trpeFhrCR
 @Serializable
 data class SearchResponse(
     val total: Int? = null,
